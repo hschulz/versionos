@@ -1,0 +1,13 @@
+### IDE ###
+.vscode
+
+### Node ###
+node_modules
+
+### CI / CD ###
+dist
+
+### Testing ###
+.nyc_output
+coverage
+test-results.xml

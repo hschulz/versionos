@@ -1,5 +1,6 @@
 import { assert, expect } from 'chai'
-import { phpService, VersionResponse, VersionState } from '../../src/service/Php'
+import { phpService } from '../../src/service/Php'
+import { VersionResponse, VersionState } from '../../src/Types'
 
 describe('PHP Service', () => {
 
@@ -8,7 +9,7 @@ describe('PHP Service', () => {
         return phpService.getVersion('2.0.0')
             .then((data: VersionResponse) => {
                 expect(data.state).to.equal(VersionState.DEAD_OUTDATED)
-                expect(data.number).to.equal('2.0.0')
+                expect(data.identifier).to.equal('2.0.0')
             })
             .catch(error => {
                 assert.isUndefined(error)

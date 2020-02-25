@@ -281,364 +281,438 @@
         "state": "DEAD_OUTDATED",
         "releaseDate": "2004-07-13",
         "endDate": "2004-08-12",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_0"
+        "url": "https://www.php.net/ChangeLog-5.php#5.0.0"
     },
     "5.0.1": {
         "state": "DEAD_OUTDATED",
         "releaseDate": "2004-08-12",
         "endDate": "2004-09-23",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_0"
+        "url": "https://www.php.net/ChangeLog-5.php#5.0.1"
     },
     "5.0.2": {
         "state": "DEAD_OUTDATED",
         "releaseDate": "2004-09-23",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_0"
+        "url": "https://www.php.net/ChangeLog-5.php#5.0.2"
     },
     "5.0.3": {
         "state": "DEAD_OUTDATED",
         "releaseDate": "2004-12-15",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_0"
+        "url": "https://www.php.net/ChangeLog-5.php#5.0.3"
     },
     "5.0.4": {
         "state": "DEAD_OUTDATED",
         "releaseDate": "2005-03-31",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_0"
+        "url": "https://www.php.net/ChangeLog-5.php#5.0.4"
     },
     "5.0.5": {
         "state": "DEAD",
         "releaseDate": "2005-09-05",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_0"
+        "url": "https://www.php.net/ChangeLog-5.php#5.0.5"
     },
     "5.1.0": {
         "state": "DEAD_OUTDATED",
         "releaseDate": "2005-09-24",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_1"
+        "url": "https://www.php.net/ChangeLog-5.php#5.1.0"
     },
     "5.1.1": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_1"
+        "url": "https://www.php.net/ChangeLog-5.php#5.1.1"
     },
     "5.1.2": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_1"
+        "url": "https://www.php.net/ChangeLog-5.php#5.1.2"
     },
     "5.1.3": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_1"
+        "url": "https://www.php.net/ChangeLog-5.php#5.1.3"
     },
     "5.1.4": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_1"
+        "url": "https://www.php.net/ChangeLog-5.php#5.1.4"
     },
     "5.1.5": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_1"
+        "url": "https://www.php.net/ChangeLog-5.php#5.1.5"
     },
     "5.1.6": {
         "state": "DEAD",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_1"
+        "url": "https://www.php.net/ChangeLog-5.php#5.1.6"
     },
     "5.2.0": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.0"
     },
     "5.2.1": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.1"
     },
     "5.2.2": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.2"
     },
     "5.2.3": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.3"
     },
     "5.2.4": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.4"
     },
     "5.2.5": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.5"
     },
     "5.2.6": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.7"
     },
     "5.2.7": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.0"
     },
     "5.2.8": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.8"
     },
     "5.2.9": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.9"
     },
     "5.2.10": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.10"
     },
     "5.2.11": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.11"
     },
     "5.2.12": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.12"
     },
     "5.2.13": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.13"
     },
     "5.2.14": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.14"
     },
     "5.2.15": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.15"
     },
     "5.2.16": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.16"
     },
     "5.2.17": {
         "state": "DEAD",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_2"
+        "url": "https://www.php.net/ChangeLog-5.php#5.2.17"
     },
     "5.3.0": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_3"
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.0"
     },
     "5.3.1": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.1"
     },
     "5.3.2": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.2"
     },
     "5.3.3": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.3"
     },
     "5.3.4": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.4"
     },
     "5.3.5": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.5"
     },
     "5.3.6": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.6"
     },
     "5.3.7": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.7"
     },
     "5.3.8": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.8"
     },
     "5.3.9": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.9"
     },
     "5.3.10": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.10"
     },
     "5.3.11": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.11"
     },
     "5.3.12": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.12"
     },
     "5.3.13": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.13"
     },
     "5.3.14": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.14"
     },
     "5.3.15": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.15"
     },
     "5.3.16": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.16"
     },
     "5.3.17": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.17"
     },
     "5.3.18": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.18"
     },
     "5.3.19": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.19"
     },
     "5.3.20": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.20"
     },
     "5.3.21": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.21"
     },
     "5.3.22": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.22"
     },
     "5.3.23": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.23"
     },
     "5.3.24": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.24"
     },
     "5.3.25": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.25"
     },
     "5.3.26": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.26"
     },
     "5.3.27": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.27"
     },
     "5.3.28": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.28"
     },
     "5.3.29": {
-        "state": "DEAD"
+        "state": "DEAD",
+        "url": "https://www.php.net/ChangeLog-5.php#5.3.29"
     },
     "5.4.0": {
         "state": "DEAD_OUTDATED",
-        "url": "https://www.php.net/ChangeLog-5.php#PHP_5_4"
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.0"
     },
     "5.4.1": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.1"
     },
     "5.4.2": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.2"
     },
     "5.4.3": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.3"
     },
     "5.4.4": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.4"
     },
     "5.4.5": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.5"
     },
     "5.4.6": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.6"
     },
     "5.4.7": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.7"
     },
     "5.4.8": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.8"
     },
     "5.4.9": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.9"
     },
     "5.4.10": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.10"
     },
     "5.4.11": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.11"
     },
     "5.4.12": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.12"
     },
     "5.4.13": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.13"
     },
     "5.4.14": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.14"
     },
     "5.4.15": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.15"
     },
     "5.4.16": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.16"
     },
     "5.4.17": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.17"
     },
     "5.4.18": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.18"
     },
     "5.4.19": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.19"
     },
     "5.4.20": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.20"
     },
     "5.4.21": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.21"
     },
     "5.4.22": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.22"
     },
     "5.4.23": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.23"
     },
     "5.4.24": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.24"
     },
     "5.4.25": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.25"
     },
     "5.4.26": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.26"
     },
     "5.4.27": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.27"
     },
     "5.4.28": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.28"
     },
     "5.4.29": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.29"
     },
     "5.4.30": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.30"
     },
     "5.4.31": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.31"
     },
     "5.4.32": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.32"
     },
     "5.4.33": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.33"
     },
     "5.4.34": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.34"
     },
     "5.4.35": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.35"
     },
     "5.4.36": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.36"
     },
     "5.4.37": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.37"
     },
     "5.4.38": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.38"
     },
     "5.4.39": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.39"
     },
     "5.4.40": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.40"
     },
     "5.4.41": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.41"
     },
     "5.4.42": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.42"
     },
     "5.4.43": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.43"
     },
     "5.4.44": {
-        "state": "DEAD_OUTDATED"
+        "state": "DEAD_OUTDATED",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.44"
     },
     "5.4.45": {
-        "state": "DEAD"
+        "state": "DEAD",
+        "url": "https://www.php.net/ChangeLog-5.php#5.4.45"
     },
     "5.5.0": {
         "state": "DEAD_OUTDATED",
@@ -1186,50 +1260,62 @@
     },
     "7.1.22": {
         "state": "DEAD_OUTDATED",
+        "releaseDate": "2018-09-13",
         "url": "https://www.php.net/ChangeLog-7.php#7.1.22"
     },
     "7.1.23": {
         "state": "DEAD_OUTDATED",
+        "releaseDate": "2018-10-11",
         "url": "https://www.php.net/ChangeLog-7.php#7.1.23"
     },
     "7.1.24": {
         "state": "DEAD_OUTDATED",
+        "releaseDate": "2018-11-08",
         "url": "https://www.php.net/ChangeLog-7.php#7.1.24"
     },
     "7.1.25": {
         "state": "DEAD_OUTDATED",
+        "releaseDate": "2018-12-06",
         "url": "https://www.php.net/ChangeLog-7.php#7.1.25"
     },
     "7.1.26": {
         "state": "DEAD_OUTDATED",
+        "releaseDate": "2019-01-10",
         "url": "https://www.php.net/ChangeLog-7.php#7.1.26"
     },
     "7.1.27": {
         "state": "DEAD_OUTDATED",
+        "releaseDate": "2019-03-07",
         "url": "https://www.php.net/ChangeLog-7.php#7.1.27"
     },
     "7.1.28": {
         "state": "DEAD_OUTDATED",
+        "releaseDate": "2019-04-04",
         "url": "https://www.php.net/ChangeLog-7.php#7.1.28"
     },
     "7.1.29": {
         "state": "DEAD_OUTDATED",
+        "releaseDate": "2019-05-02",
         "url": "https://www.php.net/ChangeLog-7.php#7.1.29"
     },
     "7.1.30": {
         "state": "DEAD_OUTDATED",
+        "releaseDate": "2019-05-30",
         "url": "https://www.php.net/ChangeLog-7.php#7.1.30"
     },
     "7.1.31": {
         "state": "DEAD_OUTDATED",
+        "releaseDate": "2019-08-01",
         "url": "https://www.php.net/ChangeLog-7.php#7.1.31"
     },
     "7.1.32": {
         "state": "DEAD_OUTDATED",
+        "releaseDate": "2019-08-29",
         "url": "https://www.php.net/ChangeLog-7.php#7.1.32"
     },
     "7.1.33": {
         "state": "DEAD",
+        "releaseDate": "2019-10-24",
         "url": "https://www.php.net/ChangeLog-7.php#7.1.33"
     },
     "7.2.0": {

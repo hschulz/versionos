@@ -1,90 +1,5 @@
 import * as fs from 'fs'
-
-/**
- *
- */
-const file: string = './data/php.json'
-
-/**
- * The lifetime states a version can have.
- */
-export enum VersionState {
-
-    /**
-     * This versions state is unknown.
-     */
-    UNKNOWN = 'UNKNOWN',
-
-    /**
-     * This version is currently alive and well and receives long term support.
-     */
-    ACTIVE_LTS = 'ACTIVE_LTS',
-
-    /**
-     * Not the newest lts version available.
-     */
-    ACTIVE_LTS_OUTDATED = 'ACTIVE_LTS_OUTDATED',
-
-    /**
-     * This version is currently alive and well.
-     */
-    ACTIVE = 'ACTIVE',
-
-    /**
-     * Not the newest version available.
-     */
-    ACTIVE_OUTDATED = 'ACTIVE_OUTDATED',
-
-    /**
-     * This version is in a security fixes only state
-     * and will reach end of life soon.
-     */
-    SECURITY_ONLY = 'SECURITY_ONLY',
-
-    /**
-     * Not the newest security fix available.
-     */
-    SECURITY_ONLY_OUTDATED = 'SECURITY_ONLY_OUTDATED',
-
-    /**
-     * This version should be dead but received an extended lifetime support.
-     */
-    EXTENDED_LIFETIME = 'EXTENDED_LIFETIME',
-
-    /**
-     * Not the newest version available.
-     */
-    EXTENDED_LIFETIME_OUTDATED = 'EXTENDED_LIFETIME_OUTDATED',
-
-    /**
-     * This version has reached its end of life.
-     */
-    DEAD = 'DEAD',
-
-    /**
-     * Although dead, it's not the newest dead version.
-     */
-    DEAD_OUTDATED = 'DEAD_OUTDATED'
-}
-
-/**
- *
- */
-export interface VersionResponse {
-    number: string;
-    state: VersionState;
-    badgeUrl?: string;
-    releaseDate?: string;
-    endDate?: string;
-    url?: string;
-}
-
-/**
- *
- */
-export interface VersionList {
-    [key: string]: VersionResponse;
-}
+import { VersionList, VersionResponse } from 'src/Types'
 
 /**
  *
@@ -94,14 +9,19 @@ class PhpService {
     /**
      *
      */
+    protected static dataFile: string = './data/php.json'
+
+    /**
+     *
+     */
     public async list(): Promise<VersionList> {
 
         return new Promise((resolve, reject) => {
 
-            fs.readFile(file, { encoding: 'utf-8', flag: 'r' }, (err, data) => {
+            fs.readFile(PhpService.dataFile, { encoding: 'utf-8', flag: 'r' }, (err, data) => {
 
                 if (err || data === undefined) {
-                    return reject(new Error('Failed to open data json ' + file))
+                    return reject(new Error('Failed to open data json ' + PhpService.dataFile))
                 }
 
                 const json: VersionList = JSON.parse(data)
@@ -122,10 +42,10 @@ class PhpService {
         return new Promise((resolve, reject) => {
 
             /** */
-            fs.readFile(file, { encoding: 'utf-8', flag: 'r' }, (err, data) => {
+            fs.readFile(PhpService.dataFile, { encoding: 'utf-8', flag: 'r' }, (err, data) => {
 
                 if (err || data === undefined) {
-                    return reject(new Error('Failed to open data json ' + file))
+                    return reject(new Error('Failed to open data json ' + PhpService.dataFile))
                 }
 
                 const json: VersionList = JSON.parse(data)
@@ -134,7 +54,7 @@ class PhpService {
                     return reject(new Error('Version not found: ' + version))
                 }
 
-                json[version].number = version
+                json[version].identifier = version
                 json[version].badgeUrl = 'https://img.shields.io/badge/php-' + version + '-black?style=flat-square'
 
                 return resolve(json[version])

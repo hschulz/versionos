@@ -1,7 +1,8 @@
-import { Controller } from './Controller';
-import { HttpServer } from '../server/HttpServer';
-import { Request, Response } from 'restify';
-import { phpService, VersionList, VersionResponse } from '../service/Php'
+import { Controller } from './Controller'
+import { HttpServer } from '../server/HttpServer'
+import { Request, Response } from 'restify'
+import { phpService } from '../service/Php'
+import { VersionList, VersionResponse } from 'src/Types'
 
 /**
  *
@@ -22,7 +23,6 @@ export class PhpController implements Controller {
      * @param req
      * @param res
      */
-    // @ts-ignore
     protected async list(req: Request, res: Response): Promise<void> {
 
         phpService.list()
